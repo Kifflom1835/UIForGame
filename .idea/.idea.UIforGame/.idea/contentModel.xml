@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\111\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\111\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_UIforGame.2108987493.00" t="ExcludeRecursive" />
+    <e p="C:\work\Work2\UIforGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Helpers" t="Include">
+            <e p="_ProjectDependent" t="Include">
+              <e p="Constants.cs" t="Include" />
+              <e p="ESceneName.cs" t="Include" />
+            </e>
+            <e p="AudioManager" t="Include">
+              <e p="AudioManager.cs" t="Include" />
+              <e p="ManagedAudioSource.cs" t="Include" />
+            </e>
+            <e p="Coroutines" t="Include">
+              <e p="CoroutineHelper.cs" t="Include" />
+            </e>
+            <e p="DictionaryOperationsHelper.cs" t="Include" />
+            <e p="EnhancedRandom.cs" t="Include" />
+            <e p="EventDispatcher.cs" t="Include" />
+            <e p="MonoBehaviourExtenders" t="Include">
+              <e p="CachedMonoBehaviour.cs" t="Include" />
+              <e p="GenericSingleton.cs" t="Include" />
+              <e p="NotDestroyable.cs" t="Include" />
+            </e>
+            <e p="SceneLoading" t="Include">
+              <e p="LoadingScreen.cs" t="Include" />
+              <e p="SceneLoader.cs" t="Include" />
+            </e>
+            <e p="ShuffledList.cs" t="Include" />
+            <e p="StringOperationsHelper.cs" t="Include" />
+            <e p="Tweeks" t="Include">
+              <e p="CurveAnimationHelper" t="Include">
+                <e p="CurveAnimationHelper.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UI" t="Include">
+              <e p="BaseUiElements" t="Include">
+                <e p="BaseInteractableUiElement.cs" t="Include" />
+                <e p="BaseTextUiElement.cs" t="Include" />
+                <e p="BaseUiElement.cs" t="Include" />
+                <e p="BaseWindowController.cs" t="Include" />
+                <e p="IInputHandlerUi.cs" t="Include" />
+                <e p="TestInteractableUiElement.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SceneScripts" t="Include">
+            <e p="MainMenu" t="Include">
+              <e p="MainMenuController.cs" t="Include" />
+            </e>
+            <e p="OptionsController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Unity UI Samples" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="Jupiter" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Textures and Sprites" t="Include">
+            <e p="SF UI" t="Include">
+              <e p="Background" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="UIforGame.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
